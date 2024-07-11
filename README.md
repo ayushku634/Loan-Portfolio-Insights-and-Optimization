@@ -64,12 +64,7 @@ Our platform is trained on a large, diverse dataset of loan applications and cre
 **Getting Started**
 ---------------
 
-To learn more about our Credit Risk Analysis Platform, please visit our website or contact us at [insert contact information].
-
-**License**
--------
-
-This project is licensed under [insert license].
+To learn more about our Credit Risk Analysis Platform, please visit our website or contact us at ayushiit634@gmail.com.
 
 **Contributing**
 ------------
