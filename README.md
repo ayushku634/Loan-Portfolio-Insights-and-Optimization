@@ -1,9 +1,4 @@
 # Loan-Portfolio-Insights-and-Optimization
-Credit Risk Analysis Platform
-=============================
-
-Credit Risk Analysis Platform
-=============================
 
 **Overview**
 -----------
